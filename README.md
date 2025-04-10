@@ -1,16 +1,16 @@
-## Hi there 👋
+Yo! 👋
 
-<!--
-**mwendellsmce/mwendellsmce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+I'm Marcus Wendell, a 21-year-old Computer Systems undergraduate student at UFF (currently in my 4th semester).
 
-Here are some ideas to get you started:
+### Professional Information
+🔍 Actively seeking internship opportunities  
+📚 University studies include: JavaScript, Java, and Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies:
+💻 Coding and software development.  
+🎹 Playing and learning keyboard (currently taking lessons).  
+📖 Reading fantasy (especially Tolkien's Legendarium), sci-fi, and philosophy.  
+🎮 Gaming with friends.  
+🍿 Critical film & anime analysis.  
+🧠 Learning new skills and technologies.
